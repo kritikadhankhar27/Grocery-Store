@@ -16,5 +16,4 @@ A **simple, modern inventory management system** — built using **HTML, CSS, Ja
 
 ---
 
-## 📁 **Project Structure**
 
